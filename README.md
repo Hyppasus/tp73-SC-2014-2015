@@ -1,77 +1,101 @@
-Schedule
 
-Week 1 – 18.9 - 5pm - 7pm
-	Introduction
-	Presentation
-	Language Syntax	Messages, Objects, Functions
-  Literals, Strings
-  Variables, Arguments	
-  
+<u><b>Schedule</u></b>
+
+<b>Week 1 – 18.9 - 5pm - 7pm </b>
+<ul>
+<li><u>Introduction</u></li>
+<li>Presentation</li>
+<li>Language Syntax
+<li>Messages, Objects, Functions </li>
+<li>Literals, Strings </li>
+<li>Variables, Arguments </li>	
+</ul>  
   Write a series of functions to calculate Harmonics series, Tuning scales, Dodecaphonic Matrix...
 
-Week 2 - 25.9 – 5pm- 8pm
-  Unit Generators	Oscillators
-  Audio rate, Control Rate
-  Envelopes, Lines
-  
+<b>Week 2 - 25.9 – 5pm- 8pm</b>
+<ul>
+<li<u>>Unit Generators</u></li>
+<li>Oscillators </li>
+<li>Audio rate, Control Rate </li>
+<li>Envelopes, Lines </li>
+</ul>   
   Write Functions exploring deterministic and chaotic oscillators controlled by lines and envelopes
 
-Week 3 - 2.10 – 5pm- 8pm
-  SynthDefs and Synths I	Synthesis Techniques
-  Additive Subtractive
-  Modulations AM RM FM
-
+<b>Week 3 - 2.10 – 5pm- 8pm</b>
+<ul> 
+<li> <u>SynthDefs and Synths I</u></li>	
+<li>Synthesis Techniques</li>
+<li>Additive Subtractive</li>
+<li>Modulations AM RM FM</li>
+</ul> 
   Prepare several synths based in the explored techniques.
 
-Week 4 - 23.10 – 5pm- 8pm
-  SynthDefs and Synths II	Granular Synthesis
-  Buffers & Audio Files
-  Physical Models
-
+<b>Week 4 - 23.10 – 5pm- 8pm</b>
+<ul>  
+  <li><u>SynthDefs and Synths II</u></li>	
+  <li>Granular Synthesis</li>
+  <li>Buffers & Audio Files</li>
+  <li>Physical Models</li>
+</ul> 
   Write a set up to read, play and treat audio files. 
 
-Week 5 - 30.10 – 5pm- 8pm
-  Sound Processing	Filters and Effects
-  Signal Flow
-  Buses Nodes Groups
-
+<b>Week 5 - 30.10 – 5pm- 8pm</b>
+  <ul>
+  <li><u>Sound Processing</u></li>
+  <li>Filters and Effects</li>
+  <li>Signal Flow</li>
+  <li>Buses Nodes Groups</li>
+</ul> 
   Explore FFT, PhaseVocoder, Delays, Modulators and Panning Ugens.
 
-Week 6 - 6.11 – 5pm- 8pm
-  Graphical User Interface	Sliders, Buttons, Dials
-  Tablets 2D, Customize
-  Automatization
-
+<b>Week 6 - 6.11 – 5pm- 8pm</b>
+  <ul>
+  <li><u>Graphical User Interface</u></li>	
+  <li>Sliders, Buttons, Dials</li>
+  <li>Tablets 2D, Customize</li>
+  <li>Automatization</li>
+</ul> 
   Built your own graphical Interface for one or all of your favourite synths
 
-Week 7  - 13.11 - 5pm - 7pm
-  Time & Scheduling	Routines
-  Tasks
-  
+<b>Week 7  - 13.11 - 5pm - 7pm</b>
+  <ul>
+  <li><u>Time & Scheduling</u></li>
+  <li>Routines</li>
+  <li>Tasks</li>
+  </ul> 
   Develop a patch to illustrate the acuracity of different clocks (Application, System)
 
-Week 8 - 27.11 – 5pm- 8pm
-  Introduction To Patterns	Musical Structures
-  Streams Events
-  Primary Patterns	
-
+<b>Week 8 - 27.11 – 5pm- 8pm</b>
+  <ul>
+  <li><u>Introduction To Patterns</u></li>	
+  <li>Musical Structures</li>
+  <li>Streams Events</li>
+  <li>Primary Patterns</li>	
+</ul> 
   Compose a piece of music using the concept of patterns
 
-Week 9 - 4.12 - 5pm - 7pm
-  OSC & MIDI	Computer Keyboard, Mouse, MIDI Controllers
-  MaxMSP - Arduino
-  Network
-  
+<b>Week 9 - 4.12 - 5pm - 7pm</b>
+  <ul>
+  <li><u>OSC & MIDI</u></li>	
+  <li>Computer Keyboard, Mouse, MIDI Controllers</li>
+  <li>MaxMSP - Arduino</li>
+  <li>Network</li>
+  </ul> 
   Prepare a patch to be played with an external device.  
 
-Week 10 - 11.12 - 5pm - 7pm
-  Expanding SC	External Libraries
-  Quarks and Extensions
-  Standalones applications
-  Writing Classes
-  Setting Preferences
+<b>Week 10 - 11.12 - 5pm - 7pm</b>
+  <ul>
+  <li><u>Expanding SC</u></li>
+  <li>External Libraries</li>
+  <li>Quarks and Extensions</li>
+  <li>Standalones applications</li>
+  <li>Writing Classes</li>
+  <li>Setting Preferences</li>
+</ul> 
 
+<b>Week 11 - 18.12 - 5pm - 7pm</b>
+  <ul>
+  <li><u>Works First Semester</u></li>
+  <li>Analysis	Kraftwerk - SC_140</li>
+</ul> 
 
-Week 11 - 18.12 - 5pm - 7pm
-  Works First Semester
-  Analysis	Kraftwerk - SC_140
