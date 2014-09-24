@@ -3,7 +3,7 @@
 
 <b>Week 1 – 18.9 - 5pm - 7pm </b>
 <ul>
-<li>Introduction</li>
+Introduction
 <li>Language Syntax
 <li>Messages, Objects, Functions </li>
 <li>Literals, Strings </li>
@@ -14,7 +14,7 @@
 <hr width=75%"/>
 <b>Week 2 - 25.9 – 5pm- 8pm</b>
 <ul>
-<li<u>>Unit Generators</li>
+Unit Generators
 <li>Oscillators </li>
 <li>Audio rate, Control Rate </li>
 <li>Envelopes, Lines </li>
