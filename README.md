@@ -4,7 +4,6 @@
 <b>Week 1 – 18.9 - 5pm - 7pm </b>
 <ul>
 <li>Introduction</li>
-<li>Presentation</li>
 <li>Language Syntax
 <li>Messages, Objects, Functions </li>
 <li>Literals, Strings </li>
