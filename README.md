@@ -24,7 +24,7 @@ Unit Generators
 <hr width=75%"/>
 <b>Week 3 - 2.10 – 5pm- 8pm</b>
 <ul> 
-<li> <u>SynthDefs and Synths I</li>	
+SynthDefs and Synths I
 <li>Synthesis Techniques</li>
 <li>Additive Subtractive</li>
 <li>Modulations AM RM FM</li>
@@ -34,7 +34,7 @@ Unit Generators
 <hr width=75%"/>
 <b>Week 4 - 23.10 – 5pm- 8pm</b>
 <ul>  
-  <li>SynthDefs and Synths II</li>	
+  SynthDefs and Synths II
   <li>Granular Synthesis</li>
   <li>Buffers & Audio Files</li>
   <li>Physical Models</li>
@@ -44,7 +44,7 @@ Unit Generators
 <hr width=75%"/>
 <b>Week 5 - 30.10 – 5pm- 8pm</b>
   <ul>
-  <li>Sound Processing</li>
+  Sound Processing
   <li>Filters and Effects</li>
   <li>Signal Flow</li>
   <li>Buses Nodes Groups</li>
@@ -54,7 +54,7 @@ Unit Generators
 <hr width=75%"/>
 <b>Week 6 - 6.11 – 5pm- 8pm</b>
   <ul>
-  <li>Graphical User Interface</li>	
+  Graphical User Interface
   <li>Sliders, Buttons, Dials</li>
   <li>Tablets 2D, Customize</li>
   <li>Automatization</li>
@@ -64,7 +64,7 @@ Unit Generators
 <hr width=75%"/>
 <b>Week 7  - 13.11 - 5pm - 7pm</b>
   <ul>
-  <li>Time & Scheduling</li>
+  Time & Scheduling
   <li>Routines</li>
   <li>Tasks</li>
   </ul> 
@@ -73,7 +73,7 @@ Unit Generators
 <hr width=75%"/>
 <b>Week 8 - 27.11 – 5pm- 8pm</b>
   <ul>
-  <li>Introduction To Patterns</li>	
+  Introduction To Patterns
   <li>Musical Structures</li>
   <li>Streams Events</li>
   <li>Primary Patterns</li>	
@@ -83,7 +83,7 @@ Unit Generators
 <hr width=75%"/>
 <b>Week 9 - 4.12 - 5pm - 7pm</b>
   <ul>
-  <li>OSC & MIDI</li>	
+  OSC & MIDI
   <li>Computer Keyboard, Mouse, MIDI Controllers</li>
   <li>MaxMSP</li> 
   <li>Arduino</li>
@@ -94,7 +94,7 @@ Unit Generators
 <hr width=75%"/>
 <b>Week 10 - 11.12 - 5pm - 7pm</b>
   <ul>
-  <li>Expanding SC</li>
+  Expanding SC
   <li>External Libraries</li>
   <li>Quarks and Extensions</li>
   <li>Standalones applications</li>
@@ -108,4 +108,3 @@ Unit Generators
   <li>Works First Semester</li>
   <li>Analysis	Kraftwerk - SC_140</li>
 </ul> 
-
