@@ -120,6 +120,7 @@ a
 d
 f
 s //variable
+~globalVariable //usefull to declare "on the fly" words as variables
 
 // Arrays
 []
