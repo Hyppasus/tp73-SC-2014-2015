@@ -35,9 +35,7 @@ SynthDefs and Synths I
 <b>Week 4 - 23.10 – 5pm- 8pm</b>
 <ul>  
   SynthDefs and Synths II
-  <li>Granular Synthesis</li>
-  <li>Buffers & Audio Files</li>
-  <li>Physical Models</li>
+
 </ul> 
   Write a set up to read, play and treat audio files. 
 
@@ -49,34 +47,29 @@ SynthDefs and Synths I
   <li>Signal Flow</li>
   <li>Buses Nodes Groups</li>
 </ul> 
-  Explore FFT, PhaseVocoder, Delays, Modulators and Panning Ugens.
+  Explore Modulators, Delays and Panning Ugens.
 
 <hr width=75%"/>
 <b>Week 6 - 6.11 – 5pm- 8pm</b>
   <ul>
-  Graphical User Interface
+  Interfacing
   <li>Sliders, Buttons, Dials</li>
   <li>Tablets 2D, Customize</li>
   <li>Automatization</li>
 </ul> 
-  Built your own graphical Interface for one or all of your favourite synths
+  Play a synth with messages
 
 <hr width=75%"/>
 <b>Week 7  - 13.11 - 5pm - 7pm</b>
   <ul>
-  Time & Scheduling
-  <li>Routines</li>
-  <li>Tasks</li>
+  Listening and write code
   </ul> 
-  Develop a patch to illustrate the acuracity of different clocks (Application, System)
+  
 
 <hr width=75%"/>
 <b>Week 8 - 27.11 – 5pm- 8pm</b>
   <ul>
-  Introduction To Patterns
-  <li>Musical Structures</li>
-  <li>Streams Events</li>
-  <li>Primary Patterns</li>	
+  Klank, udp, osc messages
 </ul> 
   Compose a piece of music using the concept of patterns
 
@@ -86,7 +79,7 @@ SynthDefs and Synths I
   OSC & MIDI
   <li>Computer Keyboard, Mouse, MIDI Controllers</li>
   <li>MaxMSP</li> 
-  <li>Arduino</li>
+  <li>Raspberry</li>
   <li>Network</li>
   </ul> 
   Prepare a patch to be played with an external device.  
@@ -95,11 +88,7 @@ SynthDefs and Synths I
 <b>Week 10 - 11.12 - 5pm - 7pm</b>
   <ul>
   Expanding SC
-  <li>External Libraries</li>
-  <li>Quarks and Extensions</li>
-  <li>Standalones applications</li>
-  <li>Writing Classes</li>
-  <li>Setting Preferences</li>
+
 </ul> 
 
 <hr width=75%"/>
